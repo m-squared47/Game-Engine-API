@@ -1,0 +1,16 @@
+{
+    "DialogLine": [
+        {
+            "Name": "Hero person 2",
+            "Content": "I am an adventurer blah blah blah",
+            "SpritePath": "assets/hero_pose1.png",
+            "SpriteLocation": "Left"
+        },
+        {
+            "Name": "Other person 2",
+            "Content": "I am an enemy muahahah",
+            "SpritePath": "assets/otherguy_pose1.png",
+            "SpriteLocation": "Right"
+        }
+    ]
+}

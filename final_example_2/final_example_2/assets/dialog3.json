@@ -1,0 +1,141 @@
+{
+    "DialogLine": [
+        {
+            "Name": "Hero person",
+            "Content": "You look... weirdly familiar... Have I met you before?",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": "Left",
+			
+			"Pauses": [[11, 20], [31, 40]],
+			"SpriteAnimParams": [512, 0, 512, 512, 2, 0]
+        },
+        {
+            "Name": "?",
+            "Content": "Muahahah I am your DOPPELGANGER",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": "Right",
+			
+			"NameColor": [1, 0, 0, 1],
+			"NameFont": "assets/fonts/segment7-96",
+			"NameSize": 3,
+			"ContentColor": [1, 0.5, 0, 1],
+			"ContentFont": "assets/fonts/segment7-96",
+			"ContentSize": 3,	
+			"Speed": 5,
+			"SpeedChanges": [[18, 6], [8, 3]],
+			"Pauses": [[8, 30]],
+			"LineAudio": "assets/sounds/evilaugh.wav",
+			"ScrollAudio": "assets/sounds/evilbeep.wav",
+			"ScrollPitch": 0.8,
+			"ScrollPitchRange": 0.2,
+			"SpriteColor": [1, 0, 0, 0.5],
+			"SpriteFlip": true,
+			"SpriteAnimParams": [1536, 0, 512, 512, 2, 0]
+        },
+		{
+            "Name": "Hero person",
+            "Content": "Oh. So you're like my twin? Are you evil?",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": "Left",
+			
+			"Pauses": [[3, 20], [27, 40]],
+			"SpeedChanges": [[35, 5]],
+			"SpriteAnimParams": [1024, 0, 512, 512, 2, 0]
+        },
+		{
+            "Name": "DOPPELGANGER",
+            "Content": "Worse. Way worse. I'm annoying.",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": "Right",
+			
+			"NameColor": [1, 0, 0, 1],
+			"NameFont": "assets/fonts/segment7-96",
+			"NameSize": 3,
+			"ContentColor": [1, 0.5, 0, 1],
+			"ContentFont": "assets/fonts/segment7-96",
+			"ContentSize": 3,	
+			"Speed": 3,
+			"SpeedChanges": [[6, 8], [10, 3], [16, 5]],
+			"Pauses": [[6, 30], [17, 30]],
+			"ScrollAudio": "assets/sounds/evilbeep.wav",
+			"ScrollPitch": 0.8,
+			"ScrollPitchRange": 0.2,
+			"SpriteColor": [1, 0, 0, 0.5],
+			"SpriteFlip": true,
+			"SpriteAnimParams": [1536, 0, 512, 512, 2, 0]
+        },
+		{
+            "Name": "Hero person",
+            "Content": "Surely that can't be that bad...",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": "Left",
+			
+			"Speed": 2,
+			"Pauses": [[28, 30]],
+			"SpeedChanges": [[28, 8]],
+			"SpriteAnimParams": [512, 0, 512, 512, 2, 0]
+        },
+		{
+            "Name": "DOPPELGANGER",
+            "Content": "Hey",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": 0.7,
+			
+			"NameColor": [1, 0, 0, 1],
+			"NameFont": "assets/fonts/segment7-96",
+			"NameSize": 3,
+			"ContentColor": [1, 0.5, 0, 1],
+			"ContentFont": "assets/fonts/segment7-96",
+			"ContentSize": 3,	
+			"Speed": 3,
+			"ScrollAudio": "assets/sounds/evilbeep.wav",
+			"ScrollPitch": 0.8,
+			"ScrollPitchRange": 0.2,
+			"SpriteColor": [1, 0, 0, 0.5],
+			"SpriteFlip": true,
+			"SpriteAnimParams": [1536, 1024, 512, 512, 2, 0]
+        },
+		{
+            "Name": "Hero person",
+            "Content": "Oh god",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": -0.2,
+			
+			"Speed": 2,
+			"ScrollPitch": 1.2,
+			"SpriteAnimParams": [512, 1024, 512, 512, 2, 0]
+        },
+		{
+            "Name": "DOPPELGANGER",
+            "Content": "I'm gonna follow you now",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": 0.5,
+			
+			"NameColor": [1, 0, 0, 1],
+			"NameFont": "assets/fonts/segment7-96",
+			"NameSize": 3,
+			"ContentColor": [1, 0.5, 0, 1],
+			"ContentFont": "assets/fonts/segment7-96",
+			"ContentSize": 3,	
+			"Speed": 2,
+			"ScrollAudio": "assets/sounds/evilbeep.wav",
+			"ScrollPitch": 0.9,
+			"ScrollPitchRange": 0.4,
+			"SpriteColor": [1, 0, 0, 0.5],
+			"SpriteFlip": true,
+			"SpriteAnimParams": [1536, 0, 512, 512, 2, 0]
+        },
+		{
+            "Name": "Hero person",
+            "Content": "Stay away from me you CREATURE!!!",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": -0.5,
+			
+			"Speed": 2,
+			"Pauses": [[17, 10]],
+			"SpeedChanges": [[17, 5], [21, 1]],
+			"ScrollPitch": 1.3,
+			"SpriteAnimParams": [1024, 1024, 512, 512, 2, 0]
+        }
+    ]
+}

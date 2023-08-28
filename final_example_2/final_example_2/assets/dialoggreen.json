@@ -1,0 +1,68 @@
+{
+    "DialogLine": [
+        {
+            "Name": "Hero person",
+            "Content": "Hey man, what's up?",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": "Left",
+			"Pauses": [[8, 20]],
+			
+			"SpriteAnimParams": [512, 0, 512, 512, 2, 0]
+        },
+        {
+            "Name": "Green man",
+            "Content": "How's it goin dude?",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": "Right",
+			
+			"NameColor": [0, 1, 0, 1],
+			"NameSize": 3,
+			"ContentColor": [0, 1, 0.5, 1],
+			"ContentSize": 3,	
+			"Speed": 4,
+			"ScrollPitch": 0.6,
+			"SpriteColor": [0, 0.7, 0, 0.7],
+			"SpriteFlip": true,
+			"SpriteAnimParams": [1536, 1024, 512, 512, 2, 0]
+        },
+		{
+            "Name": "Hero person",
+            "Content": "Wait, why do you look like me?",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": "Left",
+			
+			"Speed": 3,
+			"SpeedChanges": [[5, 2]],
+			"Pauses": [[5, 40]],
+			"SpriteAnimParams": [512, 0, 512, 512, 2, 0]
+        },
+		{
+            "Name": "Green man",
+            "Content": "wait, why do YOU look like ME?",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": "Right",
+			
+			"NameColor": [0, 1, 0, 1],
+			"NameSize": 3,
+			"ContentColor": [0, 1, 0.5, 1],
+			"ContentSize": 3,	
+			"Pauses": [[5, 30], [16, 30]],
+			"Speed": 3,
+			"SpeedChanges": [[5, 5], [13, 2], [16, 5], [27, 2]],
+			"ScrollPitch": 0.7,
+			"SpriteColor": [0, 0.7, 0, 0.7],
+			"SpriteFlip": true,
+			"SpriteAnimParams": [512, 1024, 512, 512, 2, 0]
+        },
+		
+		{
+            "Name": "Hero person",
+            "Content": "Fair",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": "Left",
+			
+			"Speed": 3,
+			"SpriteAnimParams": [512, 0, 512, 512, 2, 0]
+        }
+    ]
+}

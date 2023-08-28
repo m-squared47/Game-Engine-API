@@ -1,0 +1,147 @@
+{
+    "DialogLine": [
+        {
+            "Name": "Hero person",
+            "Content": "You gotta help me man!!!",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": "Left",
+				
+			"Speed": 2,			
+			"ScrollPitch": 1.2,
+			"SpriteAnimParams": [512, 1024, 512, 512, 2, 0]
+        },
+        {
+            "Name": "Green man",
+            "Content": "What is that thing?",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": "Right",
+			
+			"NameColor": [0, 1, 0, 1],
+			"NameSize": 3,
+			"ContentColor": [0, 1, 0.5, 1],
+			"ContentSize": 3,	
+			"Speed": 3,
+			"ScrollPitch": 0.7,
+			"SpriteColor": [0, 0.7, 0, 0.7],
+			"SpriteFlip": true,
+			"SpriteAnimParams": [512, 1024, 512, 512, 2, 0]
+        },
+		{
+            "Name": "Hero person",
+            "Content": "I dunno man but it wants to KILL ME!!! HELP!!!",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": "Left",
+				
+			"Speed": 2,			
+			"ScrollPitch": 1.3,
+			"SpriteAnimParams": [512, 1024, 512, 512, 2, 0]
+        },
+        {
+            "Name": "DOPPELGANGER",
+            "Content": "Are you radioactive or something?",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": "Right",
+			
+			"NameColor": [1, 0, 0, 1],
+			"NameFont": "assets/fonts/segment7-96",
+			"NameSize": 3,
+			"ContentColor": [1, 0.5, 0, 1],
+			"ContentFont": "assets/fonts/segment7-96",
+			"ContentSize": 3,	
+			"Speed": 3,
+			"ScrollAudio": "assets/sounds/evilbeep.wav",
+			"ScrollPitch": 0.9,
+			"ScrollPitchRange": 0.4,
+			"SpriteColor": [1, 0, 0, 0.5],
+			"SpriteFlip": true,
+			"SpriteAnimParams": [1024, 0, 512, 512, 2, 0]
+        },
+        {
+            "Name": "Green man",
+            "Content": "I'm just built different",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": "Left",
+			
+			"NameColor": [0, 1, 0, 1],
+			"NameSize": 3,
+			"ContentColor": [0, 1, 0.5, 1],
+			"ContentSize": 3,	
+			"Speed": 3,
+			"ScrollPitch": 0.7,
+			"SpriteColor": [0, 0.7, 0, 0.7],
+			"SpriteAnimParams": [512, 0, 512, 512, 2, 0]
+        },
+		{
+            "Name": "DOPPELGANGER",
+            "Content": "Well are you gonna vanquish me or something? I'm getting bored...",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": "Right",
+			
+			"NameColor": [1, 0, 0, 1],
+			"NameFont": "assets/fonts/segment7-96",
+			"NameSize": 3,
+			"ContentColor": [1, 0.5, 0, 1],
+			"ContentFont": "assets/fonts/segment7-96",
+			"ContentSize": 3,	
+			"Speed": 3,
+			"ScrollAudio": "assets/sounds/evilbeep.wav",
+			"ScrollPitch": 0.9,
+			"ScrollPitchRange": 0.4,
+			"SpriteColor": [1, 0, 0, 0.5],
+			"SpriteFlip": true,
+			"SpriteAnimParams": [1024, 0, 512, 512, 2, 0]
+        },
+		{
+            "Name": "Green man",
+            "Content": "Watch this",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": "Left",
+			
+			"NameColor": [0, 1, 0, 1],
+			"NameSize": 3,
+			"ContentColor": [0, 1, 0.5, 1],
+			"ContentSize": 3,	
+			"Speed": 3,
+			"ScrollPitch": 0.7,
+			"SpriteColor": [0, 0.7, 0, 0.7],
+			"SpriteAnimParams": [512, 0, 512, 512, 2, 0]
+        },
+		{
+            "Name": "Green man",
+            "Content": "L + Ratio + Didn't ask + Gatorade lookin + Kool aid man + No maidens",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": "Left",
+			
+			"NameColor": [0, 1, 0, 1],
+			"NameSize": 3,
+			"ContentColor": [0, 1, 0.5, 1],
+			"ContentSize": 3,	
+			"Speed": 2,
+			"ScrollPitch": 0.7,
+			"SpriteColor": [0, 0.7, 0, 0.7],
+			"SpriteAnimParams": [512, 0, 512, 512, 2, 0],
+			"LineAudio": "assets/sounds/roasted.wav"
+        },
+		{
+            "Name": "DOPPELGANGER",
+            "Content": "AAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "SpritePath": "assets/stupidtownherodialog.png",
+            "SpriteLocation": "Right",
+			
+			"NameColor": [1, 0, 0, 1],
+			"NameFont": "assets/fonts/segment7-96",
+			"NameSize": 4,
+			"ContentColor": [1, 0.5, 0, 1],
+			"ContentFont": "assets/fonts/segment7-96",
+			"ContentSize": 3,	
+			"Speed": 3,
+			"ScrollAudio": "assets/sounds/evilbeep.wav",
+			"LineAudio": "assets/sounds/aaa.wav",
+			"ScrollPitch": 1,
+			"ScrollPitchRange": 1,
+			"SpriteColor": [1, 0, 0, 0.5],
+			"SpriteFlip": true,
+			"SpriteAnimParams": [2048, 0, 512, 512, 4, 0]
+        }
+    ]
+}
